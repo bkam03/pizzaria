@@ -1,0 +1,50 @@
+
+body {
+  max-width:800px;
+  margin:auto;
+}
+.sectionTitle {
+  text-align: center;
+}
+
+#intro {
+  text-align: center;
+}
+
+#logo {
+  float:left;
+  zoom:15%;
+}
+
+.guide {
+  display: inline;
+  font-size: 20px;
+}
+
+#menu {
+  float: right;
+  border: 3px solid black;
+  padding: 10px;
+  max-width: 600px;
+
+}
+
+#sidebar {
+  width: 200px;
+
+}
+
+#subscribe {
+}
+
+#visit {
+
+}
+
+footer {
+  padding: 20px;
+  clear: both;
+  text-align: center;
+}
+
+
