@@ -87,11 +87,12 @@ span {
 
 #centerColumn {
   background-color: white;
+  border: 3px solid black;
 }
 
 #menu {
   float: right;
-  border: 3px solid black;
+  border-left: 3px solid black;
   padding: 10px;
   max-width: 600px;
 
@@ -107,7 +108,6 @@ span {
 
 #sidebar {
   min-width: 200px;
-  border: 3px solid black;
   
 
 }
@@ -128,6 +128,7 @@ input {
 }
 
 footer {
+  border-top:3px solid black;
   padding: 20px;
   clear: both;
   text-align: center;
