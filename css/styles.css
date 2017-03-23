@@ -12,7 +12,8 @@ h2,h3 {
 body {
   max-width:800px;
   margin:auto;
-  background-color: grey;
+  background-image: url(http://sedonapizzacompany.com/wp-content/uploads/2015/04/Sedona-Pizza-Comp-1-HR.jpg);
+  background-size:150%;
 }
 
 .sectionTitle {
@@ -73,6 +74,7 @@ nav {
 }
 .guide:hover {
   background-color:maroon;
+  opacity:.4;
 }
 
 a {
@@ -88,6 +90,8 @@ span {
 #centerColumn {
   background-color: white;
   border: 3px solid black;
+  opacity:.7;
+
 }
 
 #menu {
@@ -115,7 +119,6 @@ span {
 #sidebar {
   min-width: 200px;
   
-
 }
 
 #subscribe {
