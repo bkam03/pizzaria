@@ -100,10 +100,16 @@ span {
 
 .pizzaName {
   font-weight: bold;
+  float: left;
 }
 
 .price {
-  
+  float: right;
+}
+
+.description {
+  clear:both;
+  padding-right: 80px;
 }
 
 #sidebar {
@@ -129,9 +135,10 @@ input {
 
 footer {
   border-top:3px solid black;
-  padding: 20px;
+  padding-bottom: 20px;
   clear: both;
   text-align: center;
+  height: 40 px;
 }
 
 
