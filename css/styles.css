@@ -21,6 +21,11 @@ body {
 
 }
 
+#today {
+  border-bottom: 2px solid black;
+  text-align: center;
+}
+
 header {
   
   text-align: center;
@@ -114,6 +119,8 @@ span {
 
 .price {
   float: right;
+  padding-right: 40px;
+  font-size: 20px;
 }
 
 .description {
